@@ -3,10 +3,11 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashish0550) 
+[![Portfolio](https://img.shields.io/badge/Website-%23008080.svg?logo=google-chrome&logoColor=white)](https://ashish5525.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_5525) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-gaurav-surapuraju-7310181a4/) 
-[![Portfolio](https://img.shields.io/badge/Website-%23008080.svg?logo=google-chrome&logoColor=white)](https://ashish5525.github.io/portfolio/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashish0550) 
+
 
 
 # 💻 Tech Stack:
