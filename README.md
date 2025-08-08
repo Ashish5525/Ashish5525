@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinnie4k&theme=dark&show_icons=true&count_private=true" />  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish5525&theme=dark&show_icons=true&count_private=true" />  </a>
 </div>
 
 <div id="user-content-toc">
