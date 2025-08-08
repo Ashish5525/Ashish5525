@@ -2,7 +2,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi. I'm Vin.</h1></summary>
+    <summary><h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi. I'm Ashish.</h1></summary>
   </ul>
 </div>
 <div align="center">
@@ -25,13 +25,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Currently learning digital art...</h2></summary>
+    <summary><h2 style="display: inline-block">Currently Working on a Startup...</h2></summary>
   </ul>
 </div>
 
-- 🎓 Fourth-year student at Cornell University.
+- 🎓 Just Graduated from Purdue University.
 - 👨🏻‍💻 Full-stack developer with a serious passion for improving user experience and developing new technologies.
-- 🌎 Visit my [portfolio](https://vinbui.me) to learn more about me!
+- 🌎 Visit my [portfolio](https://ashish5525.github.io/portfolio/) to learn more about me!
 
 <div id="user-content-toc">
   <ul align="center">
@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,javascript,typescript,python,java,html,css,mysql,ocaml,tailwind,nextjs,react,nodejs,flask,express,firebase,git,docker,mongodb,postgresql,vscode,figma&perline=14" />
+  <img src="https://skillicons.dev/icons?i=swift,javascript,typescript,python,java,html,css,mysql,tailwind,nextjs,react,nodejs,flask,express,firebase,git,docker,mongodb,postgresql,vscode,figma&perline=14" />
 </div>
 
 <div id="user-content-toc">
